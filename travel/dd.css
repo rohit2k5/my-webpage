@@ -1,0 +1,58 @@
+.video-bg{
+width: auto;
+border-radius: 30px;
+background-attachment: fixed;
+position: fixed;
+z-index:-1;
+
+}
+.row-1{overflow-y:hidden;
+scrollbar:none;
+}
+.row{
+padding: 50px;
+   align-self: center;
+   background-color: black;
+   border-radius: 20px;
+
+   
+}
+.body{
+   background-color: rgb(27, 3, 50);
+   position:relative;
+   scrollbar-color:black;
+
+}
+
+.col{
+    font-size: 500%;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 4px 5px 5px rgb(118, 10, 44);
+    color: rgb(5, 24, 17);
+    padding-top:250px;
+   
+     }
+img{
+   border-radius: 19px;
+box-shadow: 11px 11px 10px rgb(6, 154, 142);
+margin-left: 30px; 
+}  
+.col-6{
+   align-self: center;
+   padding-left: 80px;
+   padding: 50px;
+   
+
+}
+.col-3{
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.h4{
+   color: rgb(15, 172, 211);
+   padding: 40px;
+   text-shadow: 3px 5px 6px rgb(14, 14, 14);
+   text-align: center;;
+
+
+
+}

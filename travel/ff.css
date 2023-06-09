@@ -1,0 +1,50 @@
+.col-6{
+    padding-top: 50px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow:5px 5px 10px rgb(11, 123, 122);
+    height:auto;
+
+}
+.img{
+    padding: 50px;
+    border-radius: 100px;
+    background-color: rgb(116, 169, 175);
+    box-shadow: 10px 12px 12px rgb(49, 46, 46);
+    width: 70%;
+}
+.textarea{ box-sizing: 440%;}
+.body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+        }
+
+  .h1{
+    color: #333;
+    margin-bottom: 10px;
+
+    }
+
+  .h2 {
+    color: #555;
+    margin-bottom: 10px;
+     margin-left: 4px;
+    }
+
+  .p {
+    color: #666;
+    margin-bottom: 10px;
+    margin-left: 20px;
+  }
+
+  .section {
+    margin-bottom: 20px;
+    font-weight: bolder;
+    background-color: rgb(132, 93, 166);
+    border-radius: 10px;
+    box-shadow: 10px 12px 12px black;
+    margin-left: 30px;
+    margin-left: 3px;
+
+  }
